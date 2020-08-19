@@ -1,5 +1,9 @@
-### Hi there 👋
+### 🐧 안드로이드 개발자 이홍주
+- 🔭 2018.09 ~ iMBC에서 안드로이드 개발자로 일하고 있습니다.
+- 🌱 요즘은 `ExoPlayer2`에 관심을 가지고 있습니다.
+- 🚓 자동차를 사면 Android Automotive OS에 대해 공부하고 싶습니다.
 
+### Status
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ggujangi)](https://github.com/ggujangi/github-readme-stats)
  
 <!--
